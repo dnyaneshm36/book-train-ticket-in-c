@@ -47,4 +47,6 @@
 47)varun vnit 8421928891 side_lower 20
 48)varun vnit 8421928891 side_lower 20
 49)varun vnit 8421928891 side_lower 20
-50)varun vnit 8421928891 side_lower 20
+50)varun vnit 8421928891 side_lower 2070)ER 45 3456 lower 23
+71)YU 45 34 lower 34
+72)E 45 G side_lower 34
