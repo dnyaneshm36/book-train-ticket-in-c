@@ -87,6 +87,7 @@ passenger_type* addpassenger(passenger_type* plist,passenger_type* pass)
 		ptr->next=newnode;
 		newnode->prev=ptr;
 	}
+	free(pass);
 	return plist;
 }
 passenger_type* deletepassenger(passenger_type *plist,passenger_type* pass)
